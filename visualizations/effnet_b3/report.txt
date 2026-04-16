@@ -1,0 +1,24 @@
+Classification Report for EFFNET_B3
+
+                            precision    recall  f1-score   support
+
+                Apple Leaf     0.8750    0.7000    0.7778        20
+           Apple Rust Leaf     0.8276    0.7500    0.7869        32
+           Apple Scab leaf     0.7368    0.8750    0.8000        32
+       Corn Gray Leaf Spot     0.4286    0.4000    0.4138        15
+                 Corn Leaf     0.6429    0.8182    0.7200        11
+          Corn Leaf Blight     0.5652    0.5652    0.5652        23
+            Corn Rust Leaf     0.7692    0.9524    0.8511        21
+        Potato Leaf Blight     0.7727    0.6296    0.6939        27
+     Potato Leafroll Virus     0.5385    0.6364    0.5833        11
+               Tomato Leaf     0.6316    0.6316    0.6316        19
+Tomato Leaf Bacterial Spot     0.3939    0.6500    0.4906        20
+  Tomato Leaf Early Blight     0.5294    0.4500    0.4865        20
+   Tomato Leaf Late Blight     0.6667    0.4762    0.5556        21
+Tomato Leaf Powdery Mildew     0.8750    0.6364    0.7368        11
+          Tomato Mold Leaf     0.6429    0.5294    0.5806        17
+ Tomato Septoria Leaf Spot     0.6667    0.6364    0.6512        22
+
+                  accuracy                         0.6584       322
+                 macro avg     0.6602    0.6460    0.6453       322
+              weighted avg     0.6729    0.6584    0.6584       322

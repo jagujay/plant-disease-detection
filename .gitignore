@@ -1,0 +1,29 @@
+# PyCharm
+.idea/
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Models
+models/
+*.pth
+*.pt
+
+# Python caches
+__pycache__/
+*.py[cod]
+*.pyc
+
+preprocessing/.ipynb_checkpoints/
+pre-trained-models/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Datasets and Images
+data/
+combined-dataset-16class/
+combined-dataset-true/
+plant-doc-dataset/
+web-sourced-dataset/
