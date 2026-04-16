@@ -1,0 +1,24 @@
+Classification Report for MLP_SHALLOW
+
+                            precision    recall  f1-score   support
+
+                Apple Leaf     0.2692    0.3500    0.3043        20
+           Apple Rust Leaf     0.0909    0.0312    0.0465        32
+           Apple Scab leaf     0.1538    0.1250    0.1379        32
+       Corn Gray Leaf Spot     0.2222    0.1333    0.1667        15
+                 Corn Leaf     0.1212    0.7273    0.2078        11
+          Corn Leaf Blight     0.3333    0.2174    0.2632        23
+            Corn Rust Leaf     0.2222    0.1905    0.2051        21
+        Potato Leaf Blight     0.1250    0.0370    0.0571        27
+     Potato Leafroll Virus     0.0000    0.0000    0.0000        11
+               Tomato Leaf     0.1111    0.1579    0.1304        19
+Tomato Leaf Bacterial Spot     0.0000    0.0000    0.0000        20
+  Tomato Leaf Early Blight     0.0714    0.0500    0.0588        20
+   Tomato Leaf Late Blight     0.1346    0.3333    0.1918        21
+Tomato Leaf Powdery Mildew     0.2000    0.3636    0.2581        11
+          Tomato Mold Leaf     0.0000    0.0000    0.0000        17
+ Tomato Septoria Leaf Spot     0.0625    0.0455    0.0526        22
+
+                  accuracy                         0.1491       322
+                 macro avg     0.1324    0.1726    0.1300       322
+              weighted avg     0.1352    0.1491    0.1253       322

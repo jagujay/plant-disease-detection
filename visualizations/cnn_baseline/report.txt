@@ -1,0 +1,24 @@
+Classification Report for CNN_BASELINE
+
+                            precision    recall  f1-score   support
+
+                Apple Leaf     0.4737    0.4500    0.4615        20
+           Apple Rust Leaf     0.4444    0.5000    0.4706        32
+           Apple Scab leaf     0.3636    0.1250    0.1860        32
+       Corn Gray Leaf Spot     0.3000    0.4000    0.3429        15
+                 Corn Leaf     0.3810    0.7273    0.5000        11
+          Corn Leaf Blight     0.5455    0.2609    0.3529        23
+            Corn Rust Leaf     0.5000    0.3810    0.4324        21
+        Potato Leaf Blight     0.3571    0.3704    0.3636        27
+     Potato Leafroll Virus     0.2778    0.4545    0.3448        11
+               Tomato Leaf     0.1875    0.1579    0.1714        19
+Tomato Leaf Bacterial Spot     0.1111    0.1000    0.1053        20
+  Tomato Leaf Early Blight     0.2857    0.3000    0.2927        20
+   Tomato Leaf Late Blight     0.2667    0.1905    0.2222        21
+Tomato Leaf Powdery Mildew     0.2500    0.2727    0.2609        11
+          Tomato Mold Leaf     0.1395    0.3529    0.2000        17
+ Tomato Septoria Leaf Spot     0.2941    0.2273    0.2564        22
+
+                  accuracy                         0.3137       322
+                 macro avg     0.3236    0.3294    0.3102       322
+              weighted avg     0.3368    0.3137    0.3090       322
