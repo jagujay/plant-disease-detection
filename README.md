@@ -3,7 +3,7 @@
 ## Project Overview
 This repository contains a comprehensive deep learning pipeline for plant leaf disease classification. The project systematically compares the performance of 8 distinct neural network architectures on a unified 16-class merged dataset (comprising data from PlantDoc and web-sourced images). 
 
-The primary objective is to evaluate how different architectural paradigms—ranging from traditional flattened Multi-Layer Perceptrons (MLPs) to state-of-the-art Deep Convolutional Neural Networks (CNNs)—handle complex spatial hierarchies and noise in agricultural image data.
+The primary objective is to evaluate how different architectural paradigms ranging from traditional flattened Multi-Layer Perceptrons (MLPs) to state-of-the-art Deep Convolutional Neural Networks (CNNs) handle complex spatial hierarchies and noise in agricultural image data.
 
 ## Architectures Implemented
 The project fulfills a rigorous evaluation of 4 custom multi-layer networks and 4 pre-trained deep learning architectures:
