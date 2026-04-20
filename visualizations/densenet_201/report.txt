@@ -2,23 +2,23 @@ Classification Report for DENSENET_201
 
                             precision    recall  f1-score   support
 
-                Apple Leaf     0.7083    0.8500    0.7727        20
-           Apple Rust Leaf     0.7586    0.6875    0.7213        32
-           Apple Scab leaf     0.6250    0.6250    0.6250        32
-       Corn Gray Leaf Spot     0.5789    0.7333    0.6471        15
-                 Corn Leaf     0.4500    0.8182    0.5806        11
-          Corn Leaf Blight     0.6667    0.5217    0.5854        23
-            Corn Rust Leaf     0.7619    0.7619    0.7619        21
-        Potato Leaf Blight     0.7500    0.3333    0.4615        27
-     Potato Leafroll Virus     0.5000    0.4545    0.4762        11
-               Tomato Leaf     0.3810    0.4211    0.4000        19
-Tomato Leaf Bacterial Spot     0.3000    0.4500    0.3600        20
-  Tomato Leaf Early Blight     0.3158    0.6000    0.4138        20
-   Tomato Leaf Late Blight     0.5200    0.6190    0.5652        21
-Tomato Leaf Powdery Mildew     0.8333    0.4545    0.5882        11
-          Tomato Mold Leaf     0.7500    0.3529    0.4800        17
- Tomato Septoria Leaf Spot     0.3333    0.1364    0.1935        22
+                Apple Leaf     0.6538    0.8500    0.7391        20
+           Apple Rust Leaf     0.9524    0.6250    0.7547        32
+           Apple Scab leaf     0.6304    0.9062    0.7436        32
+       Corn Gray Leaf Spot     0.6111    0.7333    0.6667        15
+                 Corn Leaf     0.7500    0.8182    0.7826        11
+          Corn Leaf Blight     0.7368    0.6087    0.6667        23
+            Corn Rust Leaf     0.8500    0.8095    0.8293        21
+        Potato Leaf Blight     0.7500    0.5556    0.6383        27
+     Potato Leafroll Virus     0.5385    0.6364    0.5833        11
+               Tomato Leaf     0.6471    0.5789    0.6111        19
+Tomato Leaf Bacterial Spot     0.4167    0.2500    0.3125        20
+  Tomato Leaf Early Blight     0.5000    0.5500    0.5238        20
+   Tomato Leaf Late Blight     0.6842    0.6190    0.6500        21
+Tomato Leaf Powdery Mildew     0.6250    0.9091    0.7407        11
+          Tomato Mold Leaf     0.7857    0.6471    0.7097        17
+ Tomato Septoria Leaf Spot     0.5185    0.6364    0.5714        22
 
-                  accuracy                         0.5497       322
-                 macro avg     0.5771    0.5512    0.5395       322
-              weighted avg     0.5866    0.5497    0.5454       322
+                  accuracy                         0.6646       322
+                 macro avg     0.6656    0.6708    0.6577       322
+              weighted avg     0.6793    0.6646    0.6600       322

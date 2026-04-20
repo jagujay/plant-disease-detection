@@ -2,23 +2,23 @@ Classification Report for MLP_REGULARIZED
 
                             precision    recall  f1-score   support
 
-                Apple Leaf     0.2250    0.4500    0.3000        20
-           Apple Rust Leaf     0.2222    0.1250    0.1600        32
+                Apple Leaf     0.2500    0.4000    0.3077        20
+           Apple Rust Leaf     0.0000    0.0000    0.0000        32
            Apple Scab leaf     0.0000    0.0000    0.0000        32
        Corn Gray Leaf Spot     0.0000    0.0000    0.0000        15
-                 Corn Leaf     0.0667    0.3636    0.1127        11
-          Corn Leaf Blight     0.0952    0.0870    0.0909        23
-            Corn Rust Leaf     0.1667    0.0476    0.0741        21
+                 Corn Leaf     0.0756    0.8182    0.1385        11
+          Corn Leaf Blight     0.1000    0.0435    0.0606        23
+            Corn Rust Leaf     0.1176    0.0952    0.1053        21
         Potato Leaf Blight     0.0000    0.0000    0.0000        27
-     Potato Leafroll Virus     0.0417    0.3636    0.0748        11
-               Tomato Leaf     0.0000    0.0000    0.0000        19
+     Potato Leafroll Virus     0.0000    0.0000    0.0000        11
+               Tomato Leaf     0.1053    0.1053    0.1053        19
 Tomato Leaf Bacterial Spot     0.0000    0.0000    0.0000        20
-  Tomato Leaf Early Blight     0.0000    0.0000    0.0000        20
+  Tomato Leaf Early Blight     0.0441    0.1500    0.0682        20
    Tomato Leaf Late Blight     0.0000    0.0000    0.0000        21
-Tomato Leaf Powdery Mildew     0.1379    0.3636    0.2000        11
-          Tomato Mold Leaf     0.0952    0.1176    0.1053        17
- Tomato Septoria Leaf Spot     0.1667    0.0455    0.0714        22
+Tomato Leaf Powdery Mildew     0.0857    0.2727    0.1304        11
+          Tomato Mold Leaf     0.2000    0.0588    0.0909        17
+ Tomato Septoria Leaf Spot     0.0000    0.0000    0.0000        22
 
-                  accuracy                         0.0963       322
-                 macro avg     0.0761    0.1227    0.0743       322
-              weighted avg     0.0786    0.0963    0.0695       322
+                  accuracy                         0.0901       322
+                 macro avg     0.0611    0.1215    0.0629       322
+              weighted avg     0.0554    0.0901    0.0547       322
