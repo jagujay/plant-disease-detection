@@ -1,0 +1,39 @@
+Classification Report for CNN_ADVANCED
+
+                            precision    recall  f1-score   support
+
+                apple leaf     0.0714    0.0500    0.0588        20
+           apple rust leaf     0.6000    0.0938    0.1622        32
+           apple scab leaf     0.0000    0.0000    0.0000        32
+          bell pepper leaf     0.0000    0.0000    0.0000         8
+     bell pepper leaf spot     0.0000    0.0000    0.0000         9
+            blueberry leaf     0.0000    0.0000    0.0000        11
+               cherry leaf     0.0000    0.0000    0.0000        10
+       corn gray leaf spot     0.0000    0.0000    0.0000        15
+                 corn leaf     0.1159    0.7273    0.2000        11
+          corn leaf blight     0.0000    0.0000    0.0000        23
+            corn rust leaf     0.0000    0.0000    0.0000        21
+                grape leaf     0.0000    0.0000    0.0000        12
+      grape leaf black rot     0.1429    0.2500    0.1818         8
+                peach leaf     0.0000    0.0000    0.0000         9
+        potato leaf blight     0.0000    0.0000    0.0000        11
+  potato leaf early blight     0.0000    0.0000    0.0000         8
+   potato leaf late blight     0.0120    0.1250    0.0220         8
+     potato leafroll virus     0.0000    0.0000    0.0000        11
+            raspberry leaf     0.0000    0.0000    0.0000         7
+             soyabean leaf     0.0816    0.5000    0.1404         8
+squash powdery mildew leaf     0.0000    0.0000    0.0000         6
+           strawberry leaf     0.5000    0.1250    0.2000         8
+               tomato leaf     0.0000    0.0000    0.0000        19
+tomato leaf bacterial spot     0.0588    0.0500    0.0541        20
+  tomato leaf early blight     0.0000    0.0000    0.0000        20
+   tomato leaf late blight     0.1333    0.0952    0.1111        21
+  tomato leaf mosaic virus     0.0282    0.2000    0.0494        10
+tomato leaf powdery mildew     0.0000    0.0000    0.0000        11
+  tomato leaf yellow virus     0.0000    0.0000    0.0000         6
+          tomato mold leaf     0.0192    0.0588    0.0290        17
+ tomato septoria leaf spot     0.0000    0.0000    0.0000        22
+
+                  accuracy                         0.0599       434
+                 macro avg     0.0569    0.0734    0.0390       434
+              weighted avg     0.0746    0.0599    0.0399       434

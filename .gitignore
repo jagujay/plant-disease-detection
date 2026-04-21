@@ -9,6 +9,7 @@ env/
 
 # Models
 models/
+models-true
 *.pth
 *.pt
 

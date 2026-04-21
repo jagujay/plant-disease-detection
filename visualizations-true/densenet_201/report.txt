@@ -1,0 +1,39 @@
+Classification Report for DENSENET_201
+
+                            precision    recall  f1-score   support
+
+                apple leaf     0.3548    0.5500    0.4314        20
+           apple rust leaf     0.5882    0.6250    0.6061        32
+           apple scab leaf     0.8235    0.4375    0.5714        32
+          bell pepper leaf     0.0000    0.0000    0.0000         8
+     bell pepper leaf spot     0.6667    0.2222    0.3333         9
+            blueberry leaf     0.0000    0.0000    0.0000        11
+               cherry leaf     0.3333    0.2000    0.2500        10
+       corn gray leaf spot     0.3158    0.4000    0.3529        15
+                 corn leaf     1.0000    0.6364    0.7778        11
+          corn leaf blight     0.5556    0.4348    0.4878        23
+            corn rust leaf     0.8571    0.8571    0.8571        21
+                grape leaf     0.5000    1.0000    0.6667        12
+      grape leaf black rot     0.2593    0.8750    0.4000         8
+                peach leaf     0.6667    0.2222    0.3333         9
+        potato leaf blight     0.2059    0.6364    0.3111        11
+  potato leaf early blight     0.0000    0.0000    0.0000         8
+   potato leaf late blight     0.0000    0.0000    0.0000         8
+     potato leafroll virus     0.3636    0.3636    0.3636        11
+            raspberry leaf     0.3077    0.5714    0.4000         7
+             soyabean leaf     0.2069    0.7500    0.3243         8
+squash powdery mildew leaf     0.6250    0.8333    0.7143         6
+           strawberry leaf     0.7273    1.0000    0.8421         8
+               tomato leaf     0.6000    0.1579    0.2500        19
+tomato leaf bacterial spot     0.3571    0.2500    0.2941        20
+  tomato leaf early blight     0.7500    0.1500    0.2500        20
+   tomato leaf late blight     0.7778    0.3333    0.4667        21
+  tomato leaf mosaic virus     0.3077    0.8000    0.4444        10
+tomato leaf powdery mildew     0.7500    0.5455    0.6316        11
+  tomato leaf yellow virus     0.0000    0.0000    0.0000         6
+          tomato mold leaf     0.3548    0.6471    0.4583        17
+ tomato septoria leaf spot     0.4706    0.3636    0.4103        22
+
+                  accuracy                         0.4516       434
+                 macro avg     0.4428    0.4472    0.3945       434
+              weighted avg     0.5056    0.4516    0.4299       434
