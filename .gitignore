@@ -9,7 +9,6 @@ env/
 
 # Models
 models/
-models-true
 *.pth
 *.pt
 
@@ -18,8 +17,6 @@ __pycache__/
 *.py[cod]
 *.pyc
 
-preprocessing/.ipynb_checkpoints/
-pre-trained-models/.ipynb_checkpoints/
 .ipynb_checkpoints/
 
 # Datasets and Images

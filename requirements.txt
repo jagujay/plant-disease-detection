@@ -1,12 +1,13 @@
-# Deep Learning Core
-torch>=2.0.0 --index-url https://download.pytorch.org/whl/cu121
-torchvision>=0.15.0 --index-url https://download.pytorch.org/whl/cu121
-torchaudio>=2.0.0 --index-url https://download.pytorch.org/whl/cu121
+# Deep Learning Core (Download appropriate version based on your CUDA setup)
+# pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126
 
 # Data Manipulation & Metrics
 numpy
 pandas
 scikit-learn
+
+datasets
+huggingface_hub
 
 # Visualization & EDA
 matplotlib
