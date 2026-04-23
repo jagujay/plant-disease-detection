@@ -21,7 +21,7 @@ __pycache__/
 
 # Datasets and Images
 data/
-combined-dataset-16class/
+combined-dataset-16-class/
 combined-dataset-true/
 plant-doc-dataset/
 web-sourced-dataset/
