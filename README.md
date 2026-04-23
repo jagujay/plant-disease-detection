@@ -61,7 +61,7 @@ Every model in this repository is evaluated using a standardized testing pipelin
 Clone the repository and install the necessary dependencies:
 
 ```bash
-git clone [https://github.com/jagujay/plant-disease-detection.git](https://github.com/jagujay/plant-disease-detection.git)
+git clone https://github.com/jagujay/plant-disease-detection.git
 cd plant-disease-detection
 pip install -r requirements.txt
 ```
